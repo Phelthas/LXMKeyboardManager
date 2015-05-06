@@ -1,5 +1,8 @@
 # LXMKeyboardManager
 一个通过监听键盘然后调整textField位置使之不会被键盘挡住的工具类
+效果图如下：
+![效果图](https://raw.githubusercontent.com/Phelthas/LXMKeyboardManager/master/ScreenShots/keyboardManager1.gif)   
+
 
 ##Installation
 requires iOS5.0 or later
