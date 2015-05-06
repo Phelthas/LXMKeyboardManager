@@ -3,6 +3,8 @@
 效果图如下：
 ![效果图](https://raw.githubusercontent.com/Phelthas/LXMKeyboardManager/master/ScreenShots/keyboardManager1.gif)   
 
+inpired by [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding)   
+
 
 ##Installation
 requires iOS5.0 or later
