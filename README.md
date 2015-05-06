@@ -1,0 +1,2 @@
+# LXMKeyboardManager
+一个通过监听键盘然后调整textField位置使之不会被键盘挡住的工具类
